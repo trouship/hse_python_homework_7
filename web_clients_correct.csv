@@ -12,7 +12,7 @@ Artagaveytia  Mr. Ramon,mobile,Firefox,male,71,926,Montevideo: Uruguay
 Astor  Col. John Jacob,desktop,Chrome,male,47,100,New York: NY
 Astor  Mrs. John Jacob (Madeleine Talmadge Force),laptop,Opera,female,48,254,New York: NY
 Aubart  Mme. Leontine Pauline,tablet,Firefox,female,24,587,Paris: France
-"Barber  Miss. Ellen ""Nellie""",mobile,Firefox,female,26,1009,-
+"Barber  Miss. Ellen ""Nellie"",mobile,Firefox,female,26,1009,-"
 Barkworth  Mr. Algernon Henry Wilson,laptop,Chrome,male,80,723,Hessle: Yorks
 Baumann  Mr. John D,tablet,Opera,male,48,185,New York: NY
 Baxter  Mr. Quigg Edmond,laptop,Chrome,male,24,427,Montreal: PQ
@@ -36,7 +36,7 @@ Bonnell  Miss. Elizabeth,laptop,Firefox,female,58,784,Birkdale: England Clevelan
 Borebank  Mr. John James,desktop,Chrome,male,42,1253,London / Winnipeg: MB
 Bowen  Miss. Grace Scott,tablet,Internet Explorer,female,45,913,Cooperstown: NY
 Bowerman  Miss. Elsie Edith,laptop,Opera,female,22,882,St Leonards-on-Sea: England Ohio
-"Bradley  Mr. George (""George Arthur Brayton"")",mobile,Chrome,male,48,40,Los Angeles: CA
+"Bradley  Mr. George (""George Arthur Brayton""),mobile,Chrome,male,48,40,Los Angeles: CA"
 Brady  Mr. John Bertram,mobile,Chrome,male,41,658,Pomeroy: WA
 Brandeis  Mr. Emil,mobile,Chrome,male,48,260,Omaha: NE
 Brewe  Dr. Arthur Jackson,mobile,Internet Explorer,male,48,1172,Philadelphia: PA
@@ -98,8 +98,8 @@ Dodge  Mrs. Washington (Ruth Vidaver),desktop,Chrome,female,54,123,San Francisco
 Douglas  Mr. Walter Donald,laptop,Firefox,male,50,126,Deephaven: MN / Cedar Rapids: IA
 Douglas  Mrs. Frederick Charles (Mary Helene Baxter),mobile,Firefox,female,27,624,Montreal: PQ
 Douglas  Mrs. Walter Donald (Mahala Dutton),tablet,Internet Explorer,female,48,104,Deephaven: MN / Cedar Rapids: IA
-"Duff Gordon  Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",desktop,Firefox,female,48,1402,London / Paris
-"Duff Gordon  Sir. Cosmo Edmund (""Mr Morgan"")",tablet,Chrome,male,49,597,London / Paris
+"Duff Gordon  Lady. (Lucille Christiana Sutherland) (""Mrs Morgan""),desktop,Firefox,female,48,1402,London / Paris"
+"Duff Gordon  Sir. Cosmo Edmund (""Mr Morgan""),tablet,Chrome,male,49,597,London / Paris"
 Dulles  Mr. William Crothers,mobile,Internet Explorer,male,39,1144,Philadelphia: PA
 Earnshaw  Mrs. Boulton (Olive Potter),desktop,Opera,female,23,789,Mt Airy: Philadelphia: PA
 Endres  Miss. Caroline Louise,desktop,Firefox,female,38,1377,New York: NY
@@ -108,7 +108,7 @@ Evans  Miss. Edith Corse,mobile,Opera,female,36,1395,New York: NY
 Farthing  Mr. John,laptop,Opera,male,36,1279,-
 Flegenheim  Mrs. Alfred (Antoinette),mobile,Firefox,female,36,654,New York: NY
 Fleming  Miss. Margaret,tablet,Chrome,female,36,859,-
-"Flynn  Mr. John Irwin (""Irving"")",mobile,Chrome,male,36,115,Brooklyn: NY
+"Flynn  Mr. John Irwin (""Irving""),mobile,Chrome,male,36,115,Brooklyn: NY"
 Foreman  Mr. Benjamin Laventall,laptop,Chrome,male,30,47,New York: NY
 Fortune  Miss. Alice Elizabeth,mobile,Opera,female,24,1201,Winnipeg: MB
 Fortune  Miss. Ethel Flora,tablet,Chrome,female,28,714,Winnipeg: MB
@@ -163,7 +163,7 @@ Hippach  Mrs. Louis Albert (Ida Sophia Fischer),desktop,Firefox,female,44,1425,C
 Hogeboom  Mrs. John C (Anna Andrews),tablet,Chrome,female,51,405,Hudson: NY
 Holverson  Mr. Alexander Oskar,laptop,Firefox,male,42,1087,New York: NY
 Holverson  Mrs. Alexander Oskar (Mary Aline Towner),tablet,Chrome,female,35,308,New York: NY
-"Homer  Mr. Harry (""Mr E Haven"")",tablet,Firefox,male,35,111,Indianapolis: IN
+"Homer  Mr. Harry (""Mr E Haven""),tablet,Firefox,male,35,111,Indianapolis: IN"
 Hoyt  Mr. Frederick Maxfield,desktop,Firefox,male,38,1430,New York: NY /  Stamford CT
 Hoyt  Mr. William Fisher,tablet,Chrome,male,53,1316,New York: NY
 Hoyt  Mrs. Frederick Maxfield (Jane Anne Forby),laptop,Firefox,female,35,769,New York: NY /  Stamford CT
@@ -184,7 +184,7 @@ Leader  Dr. Alice (Farnham),mobile,Chrome,female,49,313,New York: NY
 LeRoy  Miss. Bertha,laptop,Internet Explorer,female,30,1370,-
 Lesurer  Mr. Gustave J,mobile,Firefox,male,35,1224,-
 Lewy  Mr. Ervin G,laptop,Firefox,male,53,616,Chicago: IL
-"Lindeberg-Lind  Mr. Erik Gustaf (""Mr Edward Lingrey"")",tablet,Firefox,male,42,889,Stockholm: Sweden
+"Lindeberg-Lind  Mr. Erik Gustaf (""Mr Edward Lingrey""),tablet,Firefox,male,42,889,Stockholm: Sweden"
 Lindstrom  Mrs. Carl Johan (Sigrid Posse),desktop,Opera,female,55,1461,Stockholm: Sweden
 Lines  Miss. Mary Conover,tablet,Chrome,female,53,1369,Paris: France
 Lines  Mrs. Ernest H (Elizabeth Lindsey James),desktop,Firefox,female,51,663,Paris: France
@@ -198,7 +198,7 @@ Maioni  Miss. Roberta,laptop,Firefox,female,53,87,-
 Marechal  Mr. Pierre,laptop,Chrome,male,53,1160,Paris: France
 Marvin  Mr. Daniel Warner,mobile,Chrome,male,53,1139,New York: NY
 Marvin  Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),mobile,Chrome,female,53,170,New York: NY
-"Mayne  Mlle. Berthe Antonine (""Mrs de Villiers"")",laptop,Chrome,female,24,1232,Belgium  Montreal: PQ
+"Mayne  Mlle. Berthe Antonine (""Mrs de Villiers""),laptop,Chrome,female,24,1232,Belgium  Montreal: PQ"
 McCaffry  Mr. Thomas Francis,tablet,Firefox,male,46,1161,Vancouver: BC
 McCarthy  Mr. Timothy J,desktop,Chrome,male,54,1113,Dorchester: MA
 McGough  Mr. James Robert,tablet,Firefox,male,36,523,Philadelphia: PA
@@ -239,10 +239,10 @@ Ringhini  Mr. Sante,tablet,Chrome,male,22,1006,-
 Robbins  Mr. Victor,tablet,Opera,male,53,1266,-
 Robert  Mrs. Edward Scott (Elisabeth Walton McMillan),tablet,Chrome,female,43,187,St Louis: MO
 Roebling  Mr. Washington Augustus II,mobile,Chrome,male,31,738,Trenton: NJ
-"Romaine  Mr. Charles Hallace (""Mr C Rolmane"")",laptop,Firefox,male,45,434,New York: NY
+"Romaine  Mr. Charles Hallace (""Mr C Rolmane""),laptop,Firefox,male,45,434,New York: NY"
 Rood  Mr. Hugh Roscoe,tablet,Chrome,male,53,120,Seattle: WA
 Rosenbaum  Miss. Edith Louise,mobile,Firefox,female,33,1166,Paris: France
-"Rosenshine  Mr. George (""Mr George Thorne"")",tablet,Chrome,male,46,181,New York: NY
+"Rosenshine  Mr. George (""Mr George Thorne""),tablet,Chrome,male,46,181,New York: NY"
 Ross  Mr. John Hugo,laptop,Internet Explorer,male,36,709,Winnipeg: MB
 Rothes  the Countess. of (Lucy Noel Martha Dyer-Edwards),tablet,Firefox,female,33,1415,London  Vancouver: BC
 Rothschild  Mr. Martin,laptop,Chrome,male,55,823,New York: NY
@@ -250,7 +250,7 @@ Rothschild  Mrs. Martin (Elizabeth L. Barrett),mobile,Internet Explorer,female,5
 Rowe  Mr. Alfred G,laptop,Chrome,male,33,756,London
 Ryerson  Master. John Borie,desktop,Firefox,male,53,1226,Haverford: PA / Cooperstown: NY
 Ryerson  Miss. Emily Borie,mobile,Chrome,female,53,1118,Haverford: PA / Cooperstown: NY
-"Ryerson  Miss. Susan Parker ""Suzette""",mobile,Firefox,female,21,1301,Haverford: PA / Cooperstown: NY
+"Ryerson  Miss. Susan Parker ""Suzette"",mobile,Firefox,female,21,1301,Haverford: PA / Cooperstown: NY"
 Ryerson  Mr. Arthur Larned,mobile,Chrome,male,61,605,Haverford: PA / Cooperstown: NY
 Ryerson  Mrs. Arthur Larned (Emily Maria Borie),tablet,Opera,female,48,310,Haverford: PA / Cooperstown: NY
 Saalfeld  Mr. Adolphe,laptop,Firefox,male,53,1389,Manchester: England
@@ -328,7 +328,7 @@ Aldworth  Mr. Charles Augustus,tablet,Opera,male,30,316,Bryn Mawr: PA: USA
 Andrew  Mr. Edgardo Samuel,laptop,Firefox,male,53,1098,Buenos Aires: Argentina / New Jersey: NJ
 Andrew  Mr. Frank Thomas,laptop,Firefox,male,25,686,Cornwall: England Houghton: MI
 Angle  Mr. William A,laptop,Firefox,male,34,858,Warwick: England
-"Angle  Mrs. William A (Florence ""Mary"" Agnes Hughes)",laptop,Internet Explorer,female,36,453,Warwick: England
+"Angle  Mrs. William A (Florence ""Mary"" Agnes Hughes),laptop,Internet Explorer,female,36,453,Warwick: England"
 Ashby  Mr. John,tablet,Firefox,male,57,1124,West Hoboken: NJ
 Bailey  Mr. Percy Andrew,desktop,Internet Explorer,male,53,1118,Penzance: Cornwall / Akron: OH
 Baimbrigge  Mr. Charles Robert,desktop,Chrome,male,23,1473,Guernsey
@@ -348,7 +348,7 @@ Berriman  Mr. William John,desktop,Chrome,male,23,1250,St Ives: Cornwall / Calum
 Botsford  Mr. William Hull,mobile,Chrome,male,26,1377,Elmira: NY / Orange: NJ
 Bowenur  Mr. Solomon,mobile,Chrome,male,42,1025,London
 Bracken  Mr. James H,mobile,Opera,male,27,530,Lake Arthur: Chavez County: NM
-"Brown  Miss. Amelia ""Mildred""",tablet,Internet Explorer,female,24,321,London / Montreal: PQ
+"Brown  Miss. Amelia ""Mildred"",tablet,Internet Explorer,female,24,321,London / Montreal: PQ"
 Brown  Miss. Edith Eileen,desktop,Firefox,female,53,1331,Cape Town: South Africa / Seattle: WA
 Brown  Mr. Thomas William Solomon,laptop,Firefox,male,60,971,Cape Town: South Africa / Seattle: WA
 Brown  Mrs. Thomas William Solomon (Elizabeth Catherine Ford),desktop,Internet Explorer,female,40,823,Cape Town: South Africa / Seattle: WA
@@ -376,13 +376,13 @@ Clarke  Mrs. Charles V (Ada Maria Winfield),mobile,Chrome,female,28,742,England 
 Coleridge  Mr. Reginald Charles,tablet,Internet Explorer,male,29,672,Hartford: Huntingdonshire
 Collander  Mr. Erik Gustaf,mobile,Firefox,male,28,702,Helsinki: Finland Ashtabula: Ohio
 Collett  Mr. Sidney C Stuart,laptop,Internet Explorer,male,24,874,London / Fort Byron: NY
-"Collyer  Miss. Marjorie ""Lottie""",laptop,Internet Explorer,female,53,916,Bishopstoke: Hants / Fayette Valley: ID
+"Collyer  Miss. Marjorie ""Lottie"",laptop,Internet Explorer,female,53,916,Bishopstoke: Hants / Fayette Valley: ID"
 Collyer  Mr. Harvey,desktop,Opera,male,31,1277,Bishopstoke: Hants / Fayette Valley: ID
 Collyer  Mrs. Harvey (Charlotte Annie Tate),mobile,Opera,female,31,898,Bishopstoke: Hants / Fayette Valley: ID
 Cook  Mrs. (Selena Rogers),laptop,Firefox,female,22,854,Pennsylvania
 Corbett  Mrs. Walter H (Irene Colvin),mobile,Internet Explorer,female,30,633,Provo: UT
 Corey  Mrs. Percy C (Mary Phyllis Elizabeth Miller),tablet,Firefox,female,53,515,Upper Burma: India Pittsburgh: PA
-"Cotterill  Mr. Henry ""Harry""",laptop,Firefox,male,21,524,Penzance: Cornwall / Akron: OH
+"Cotterill  Mr. Henry ""Harry"",laptop,Firefox,male,21,524,Penzance: Cornwall / Akron: OH"
 Cunningham  Mr. Alfred Fleming,mobile,Internet Explorer,male,53,783,Belfast
 Davies  Master. John Morgan Jr,mobile,Chrome,male,53,831,St Ives: Cornwall / Hancock: MI
 Davies  Mr. Charles Henry,tablet,Chrome,male,32,1460,Lyndhurst: England
@@ -409,7 +409,7 @@ Faunthorpe  Mr. Harry,laptop,Chrome,male,40,960,England / Philadelphia: PA
 Faunthorpe  Mrs. Lizzie (Elizabeth Anne Wilkinson),mobile,Chrome,female,29,377,-
 Fillbrook  Mr. Joseph Charles,laptop,Chrome,male,32,930,Cornwall / Houghton: MI
 Fox  Mr. Stanley Hubert,mobile,Opera,male,36,121,Rochester: NY
-"Frost  Mr. Anthony Wood ""Archie""",desktop,Opera,male,32,1205,Belfast
+"Frost  Mr. Anthony Wood ""Archie"",desktop,Opera,male,32,1205,Belfast"
 Funk  Miss. Annie Clemmer,desktop,Firefox,female,38,1441,Janjgir: India / Pennsylvania
 Fynney  Mr. Joseph J,desktop,Opera,male,35,845,Liverpool / Montreal: PQ
 Gale  Mr. Harry,tablet,Internet Explorer,male,38,676,Cornwall / Clear Creek: CO
@@ -426,10 +426,10 @@ Gillespie  Mr. William Henry,laptop,Chrome,male,34,1240,Vancouver: BC
 Givard  Mr. Hans Kristensen,mobile,Chrome,male,30,857,-
 Greenberg  Mr. Samuel,laptop,Chrome,male,52,431,Bronx: NY
 Hale  Mr. Reginald,laptop,Firefox,male,30,795,Auburn: NY
-Hamalainen  Master. Viljo,laptop,Chrome,male,0.67,637,Detroit: MI
+Hamalainen  Master. Viljo,laptop,Chrome,male,67,637,Detroit: MI
 Hamalainen  Mrs. William (Anna),laptop,Firefox,female,24,794,Detroit: MI
 Harbeck  Mr. William H,mobile,Firefox,male,44,940,Seattle: WA / Toledo: OH
-"Harper  Miss. Annie Jessie ""Nina""",desktop,Opera,female,6,1485,Denmark Hill: Surrey / Chicago
+"Harper  Miss. Annie Jessie ""Nina"",desktop,Opera,female,6,1485,Denmark Hill: Surrey / Chicago"
 Harper  Rev. John,laptop,Firefox,male,28,1237,Denmark Hill: Surrey / Chicago
 Harris  Mr. George,laptop,Firefox,male,62,277,London
 Harris  Mr. Walter,mobile,Internet Explorer,male,30,1276,Walthamstow: England
@@ -445,7 +445,7 @@ Hickman  Mr. Leonard Mark,tablet,Firefox,male,24,1230,West Hampstead: London / N
 Hickman  Mr. Lewis,tablet,Internet Explorer,male,32,1005,West Hampstead: London / Neepawa: MB
 Hickman  Mr. Stanley George,tablet,Chrome,male,21,832,West Hampstead: London / Neepawa: MB
 Hiltunen  Miss. Marta,desktop,Opera,female,18,275,Kontiolahti: Finland / Detroit: MI
-"Hocking  Miss. Ellen ""Nellie""",tablet,Firefox,female,20,542,Cornwall / Akron: OH
+"Hocking  Miss. Ellen ""Nellie"",tablet,Firefox,female,20,542,Cornwall / Akron: OH"
 Hocking  Mr. Richard George,desktop,Firefox,male,23,469,Cornwall / Akron: OH
 Hocking  Mr. Samuel James Metcalfe,laptop,Opera,male,36,1368,Devonport: England
 Hocking  Mrs. Elizabeth (Eliza Needs),mobile,Chrome,female,54,498,Cornwall / Akron: OH
@@ -470,7 +470,7 @@ Kantor  Mrs. Sinai (Miriam Sternin),desktop,Chrome,female,24,1157,Moscow / Bronx
 Karnes  Mrs. J Frank (Claire Bennett),desktop,Chrome,female,22,1386,India / Pittsburgh: PA
 Keane  Miss. Nora A,tablet,Chrome,female,32,507,Harrisburg: PA
 Keane  Mr. Daniel,mobile,Opera,male,35,45,-
-"Kelly  Mrs. Florence ""Fannie""",tablet,Firefox,female,45,1300,London / New York: NY
+"Kelly  Mrs. Florence ""Fannie"",tablet,Firefox,female,45,1300,London / New York: NY"
 Kirkland  Rev. Charles Leonard,tablet,Firefox,male,57,439,Glasgow / Bangor: ME
 Knight  Mr. Robert J,mobile,Firefox,male,32,1480,Belfast
 Kvillner  Mr. Johan Henrik Johannesson,mobile,Chrome,male,31,835,Sweden / Arlington: NJ
@@ -508,18 +508,18 @@ Milling  Mr. Jacob Christian,mobile,Chrome,male,48,278,Copenhagen: Denmark
 Mitchell  Mr. Henry Michael,tablet,Chrome,male,70,346,Guernsey / Montclair: NJ and/or Toledo: Ohio
 Montvila  Rev. Juozas,desktop,Opera,male,27,1262,Worcester: MA
 Moraweck  Dr. Ernest,laptop,Chrome,male,54,1127,Frankfort: KY
-"Morley  Mr. Henry Samuel (""Mr Henry Marshall"")",laptop,Firefox,male,39,730,-
+"Morley  Mr. Henry Samuel (""Mr Henry Marshall""),laptop,Firefox,male,39,730,-"
 Mudd  Mr. Thomas Charles,mobile,Chrome,male,16,1012,Halesworth: England
 Myles  Mr. Thomas Francis,laptop,Chrome,male,62,1363,Cambridge: MA
 Nasser  Mr. Nicholas,mobile,Opera,male,32,580,New York: NY
 Nasser  Mrs. Nicholas (Adele Achem),tablet,Firefox,female,14,1489,New York: NY
 Navratil  Master. Edmond Roger,laptop,Chrome,male,32,1415,Nice: France
 Navratil  Master. Michel M,laptop,Chrome,male,32,346,Nice: France
-"Navratil  Mr. Michel (""Louis M Hoffman"")",laptop,Chrome,male,32,1247,Nice: France
+"Navratil  Mr. Michel (""Louis M Hoffman""),laptop,Chrome,male,32,1247,Nice: France"
 Nesson  Mr. Israel,laptop,Chrome,male,26,756,Boston: MA
 Nicholls  Mr. Joseph Charles,tablet,Firefox,male,19,180,Cornwall / Hancock: MI
 Norman  Mr. Robert Douglas,tablet,Opera,male,28,301,Glasgow
-"Nourney  Mr. Alfred (""Baron von Drachstedt"")",mobile,Internet Explorer,male,20,895,Cologne: Germany
+"Nourney  Mr. Alfred (""Baron von Drachstedt""),mobile,Internet Explorer,male,20,895,Cologne: Germany"
 Nye  Mrs. (Elizabeth Ramell),laptop,Chrome,female,29,299,Folkstone: Kent / New York: NY
 Otter  Mr. Richard,mobile,Internet Explorer,male,39,448,Middleburg Heights: OH
 Oxenham  Mr. Percy Thomas,desktop,Chrome,male,22,720,Pondersend: England / New Durham: NJ
@@ -527,13 +527,13 @@ Padro y Manent  Mr. Julian,desktop,Chrome,male,32,208,Spain / Havana: Cuba
 Pain  Dr. Alfred,tablet,Chrome,male,23,521,Hamilton: ON
 Pallas y Castello  Mr. Emilio,desktop,Firefox,male,29,825,Spain / Havana: Cuba
 Parker  Mr. Clifford Richard,desktop,Opera,male,28,1036,St Andrews: Guernsey
-"Parkes  Mr. Francis ""Frank""",tablet,Chrome,male,32,813,Belfast
+"Parkes  Mr. Francis ""Frank"",tablet,Chrome,male,32,813,Belfast"
 Parrish  Mrs. (Lutie Davis),desktop,Chrome,female,50,1217,Woodford County: KY
 Pengelly  Mr. Frederick William,desktop,Internet Explorer,male,32,735,Gunnislake: England / Butte: MT
 Pernot  Mr. Rene,laptop,Chrome,male,32,627,-
 Peruschitz  Rev. Joseph Maria,laptop,Firefox,male,41,317,-
 Phillips  Miss. Alice Frances Louisa,laptop,Opera,female,21,610,Ilfracombe: Devon
-"Phillips  Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",laptop,Chrome,female,32,1019,Worcester: England
+"Phillips  Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall""),laptop,Chrome,female,32,1019,Worcester: England"
 Phillips  Mr. Escott Robert,desktop,Firefox,male,43,1470,Ilfracombe: Devon
 Pinsky  Mrs. (Rosa),laptop,Internet Explorer,female,32,1262,Russia
 Ponesell  Mr. Martin,mobile,Firefox,male,34,770,Denmark / New York: NY
@@ -572,7 +572,7 @@ Sweet  Mr. George Frederick,tablet,Chrome,male,32,148,Somerset / Bernardsville: 
 Toomey  Miss. Ellen,tablet,Chrome,female,50,1241,Indianapolis: IN
 Troupiansky  Mr. Moses Aaron,mobile,Opera,male,23,875,-
 Trout  Mrs. William H (Jessie L),tablet,Internet Explorer,female,28,334,Columbus: OH
-"Troutt  Miss. Edwina Celia ""Winnie""",desktop,Chrome,female,27,52,Bath: England / Massachusetts
+"Troutt  Miss. Edwina Celia ""Winnie"",desktop,Chrome,female,27,52,Bath: England / Massachusetts"
 Turpin  Mr. William John Robert,laptop,Chrome,male,29,873,Plymouth: England
 Turpin  Mrs. William John Robert (Dorothy Ann Wonnacott),laptop,Internet Explorer,female,27,591,Plymouth: England
 Veal  Mr. James,mobile,Firefox,male,40,1096,Barre: Co Washington: VT
@@ -582,23 +582,23 @@ Ware  Mr. William Jeffery,tablet,Chrome,male,23,1244,-
 Ware  Mrs. John James (Florence Louise Long),tablet,Chrome,female,31,1235,Bristol: England / New Britain: CT
 Watson  Mr. Ennis Hastings,desktop,Opera,male,32,911,Belfast
 Watt  Miss. Bertha J,laptop,Chrome,female,32,232,Aberdeen / Portland: OR
-"Watt  Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",laptop,Internet Explorer,female,40,1028,Aberdeen / Portland: OR
+"Watt  Mrs. James (Elizabeth ""Bessie"" Inglis Milne),laptop,Internet Explorer,female,40,1028,Aberdeen / Portland: OR"
 Webber  Miss. Susan,desktop,Firefox,female,32,261,England / Hartford: CT
 Weisz  Mr. Leopold,tablet,Opera,male,27,870,Bromsgrove: England / Montreal: PQ
 Weisz  Mrs. Leopold (Mathilde Francoise Pede),tablet,Chrome,female,29,480,Bromsgrove: England / Montreal: PQ
 Wells  Master. Ralph Lester,tablet,Firefox,male,32,364,Cornwall / Akron: OH
 Wells  Miss. Joan,desktop,Chrome,female,32,906,Cornwall / Akron: OH
-"Wells  Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",mobile,Opera,female,29,575,Cornwall / Akron: OH
+"Wells  Mrs. Arthur Henry (""Addie"" Dart Trevaskis),mobile,Opera,female,29,575,Cornwall / Akron: OH"
 West  Miss. Barbara J,laptop,Firefox,female,32,1023,Bournmouth: England
 West  Miss. Constance Mirium,laptop,Internet Explorer,female,32,957,Bournmouth: England
 West  Mr. Edwy Arthur,mobile,Chrome,male,36,528,Bournmouth: England
 West  Mrs. Edwy Arthur (Ada Mary Worth),mobile,Opera,female,33,1461,Bournmouth: England
 Wheadon  Mr. Edward H,laptop,Chrome,male,66,908,Guernsey: England / Edgewood: RI
-"Wheeler  Mr. Edwin ""Frederick""",mobile,Chrome,male,32,409,-
+"Wheeler  Mr. Edwin ""Frederick"",mobile,Chrome,male,32,409,-"
 Wilhelms  Mr. Charles,tablet,Chrome,male,31,498,London: England
 Williams  Mr. Charles Eugene,laptop,Chrome,male,32,1466,Harrow: England
 Wright  Miss. Marion,laptop,Internet Explorer,female,26,128,Yoevil: England / Cottage Grove: OR
-"Yrois  Miss. Henriette (""Mrs Harbeck"")",mobile,Firefox,female,24,357,Paris
+"Yrois  Miss. Henriette (""Mrs Harbeck""),mobile,Firefox,female,24,357,Paris"
 Abbing  Mr. Anthony,desktop,Firefox,male,42,138,-
 Abbott  Master. Eugene Joseph,laptop,Chrome,male,32,902,East Providence: RI
 Abbott  Mr. Rossmore Edward,laptop,Firefox,male,32,1185,East Providence: RI
@@ -629,7 +629,7 @@ Andersson  Miss. Ida Augusta Margareta,laptop,Firefox,female,38,1360,Vadsbro: Sw
 Andersson  Miss. Ingeborg Constanzia,tablet,Chrome,female,32,1500,Sweden Winnipeg: MN
 Andersson  Miss. Sigrid Elisabeth,mobile,Firefox,female,32,822,Sweden Winnipeg: MN
 Andersson  Mr. Anders Johan,desktop,Firefox,male,39,576,Sweden Winnipeg: MN
-"Andersson  Mr. August Edvard (""Wennerstrom"")",tablet,Opera,male,27,55,-
+"Andersson  Mr. August Edvard (""Wennerstrom""),tablet,Opera,male,27,55,-"
 Andersson  Mr. Johan Samuel,mobile,Chrome,male,26,1466,Hartford: CT
 Andersson  Mrs. Anders Johan (Alfrida Konstantia Brogren),laptop,Opera,female,39,1165,Sweden Winnipeg: MN
 Andreasson  Mr. Paul Edvin,mobile,Opera,male,20,1227,Sweden Chicago: IL
@@ -646,7 +646,7 @@ Asplund  Miss. Lillian Gertrud,mobile,Chrome,female,32,1231,Sweden Worcester: MA
 Asplund  Mr. Carl Oscar Vilhelm Gustafsson,desktop,Firefox,male,40,640,Sweden  Worcester: MA
 Asplund  Mr. Johan Charles,mobile,Chrome,male,23,61,Oskarshamn: Sweden Minneapolis: MN
 Asplund  Mrs. Carl Oscar (Selma Augusta Emilia Johansson),mobile,Firefox,female,38,681,Sweden  Worcester: MA
-"Assaf Khalil  Mrs. Mariana (""Miriam"")",mobile,Firefox,female,45,868,Ottawa: ON
+"Assaf Khalil  Mrs. Mariana (""Miriam""),mobile,Firefox,female,45,868,Ottawa: ON"
 Assaf  Mr. Gerios,tablet,Chrome,male,21,776,Ottawa: ON
 Assam  Mr. Ali,mobile,Opera,male,23,898,-
 Attalah  Miss. Malake,desktop,Firefox,female,32,384,-
@@ -684,7 +684,7 @@ Boulos  Mrs. Joseph (Sultana),laptop,Chrome,female,32,660,Syria Kent: ON
 Bourke  Miss. Mary,desktop,Internet Explorer,female,32,225,Ireland Chicago: IL
 Bourke  Mr. John,tablet,Opera,male,40,865,Ireland Chicago: IL
 Bourke  Mrs. John (Catherine),tablet,Opera,female,32,377,Ireland Chicago: IL
-"Bowen  Mr. David John ""Dai""",desktop,Opera,male,21,1377,Treherbert: Cardiff: Wales
+"Bowen  Mr. David John ""Dai"",desktop,Opera,male,21,1377,Treherbert: Cardiff: Wales"
 Bradley  Miss. Bridget Delia,tablet,Firefox,female,22,1063,Kingwilliamstown: Co Cork: Ireland Glens Falls: NY
 Braf  Miss. Elin Ester Maria,laptop,Firefox,female,20,851,Medeltorp: Sweden Chicago: IL
 Braund  Mr. Lewis Richard,tablet,Firefox,male,29,1193,Bridgerule: Devon
@@ -708,7 +708,7 @@ Caram  Mr. Joseph,desktop,Chrome,male,55,1277,Ottawa: ON
 Caram  Mrs. Joseph (Maria Elias),desktop,Chrome,female,55,1291,Ottawa: ON
 Carlsson  Mr. August Sigfrid,tablet,Internet Explorer,male,28,1153,Dagsas: Sweden Fower: MN
 Carlsson  Mr. Carl Robert,tablet,Firefox,male,24,995,Goteborg: Sweden Huntley: IL
-"Carr  Miss. Helen ""Ellen""",tablet,Firefox,female,55,205,Co Longford: Ireland New York: NY
+"Carr  Miss. Helen ""Ellen"",tablet,Firefox,female,55,205,Co Longford: Ireland New York: NY"
 Carr  Miss. Jeannie,tablet,Chrome,female,37,1213,Co Sligo: Ireland Hartford: CT
 Carver  Mr. Alfred John,laptop,Internet Explorer,male,28,529,St Denys: Southampton: Hants
 Celotti  Mr. Francesco,desktop,Opera,male,24,434,London
@@ -718,7 +718,7 @@ Christmann  Mr. Emil,tablet,Firefox,male,29,1087,-
 Chronopoulos  Mr. Apostolos,desktop,Opera,male,26,396,Greece
 Chronopoulos  Mr. Demetrios,laptop,Firefox,male,55,977,Greece
 Coelho  Mr. Domingos Fernandeo,desktop,Firefox,male,20,300,Portugal
-"Cohen  Mr. Gurshon ""Gus""",laptop,Chrome,male,55,1370,London Brooklyn: NY
+"Cohen  Mr. Gurshon ""Gus"",laptop,Chrome,male,55,1370,London Brooklyn: NY"
 Colbert  Mr. Patrick,mobile,Firefox,male,24,657,Co Limerick: Ireland Sherbrooke: PQ
 Coleff  Mr. Peju,mobile,Firefox,male,36,330,Bulgaria Chicago: IL
 Coleff  Mr. Satio,desktop,Internet Explorer,male,24,999,-
@@ -732,9 +732,9 @@ Cor  Mr. Bartol,desktop,Opera,male,35,731,Austria
 Cor  Mr. Ivan,tablet,Chrome,male,27,420,Austria
 Cor  Mr. Liudevit,tablet,Opera,male,19,775,Austria
 Corn  Mr. Harry,tablet,Internet Explorer,male,30,923,London
-"Coutts  Master. Eden Leslie ""Neville""",tablet,Chrome,male,55,821,England Brooklyn: NY
-"Coutts  Master. William Loch ""William""",tablet,Chrome,male,55,314,England Brooklyn: NY
-"Coutts  Mrs. William (Winnie ""Minnie"" Treanor)",desktop,Chrome,female,36,745,England Brooklyn: NY
+"Coutts  Master. Eden Leslie ""Neville"",tablet,Chrome,male,55,821,England Brooklyn: NY"
+"Coutts  Master. William Loch ""William"",tablet,Chrome,male,55,314,England Brooklyn: NY"
+"Coutts  Mrs. William (Winnie ""Minnie"" Treanor),desktop,Chrome,female,36,745,England Brooklyn: NY"
 Coxon  Mr. Daniel,mobile,Opera,male,59,1133,Merrill: WI
 Crease  Mr. Ernest James,desktop,Chrome,male,19,1001,Bristol: England Cleveland: OH
 Cribb  Miss. Laura Alice,tablet,Firefox,female,17,1187,Bournemouth: England Newark: NJ
@@ -744,7 +744,7 @@ Daher  Mr. Shedid,tablet,Chrome,male,55,1427,-
 Dahl  Mr. Karl Edwart,mobile,Internet Explorer,male,45,316,Australia Fingal: ND
 Dahlberg  Miss. Gerda Ulrika,tablet,Chrome,female,22,391,Norrlot: Sweden Chicago: IL
 Dakic  Mr. Branko,desktop,Chrome,male,19,1389,Austria
-"Daly  Miss. Margaret Marcella ""Maggie""",mobile,Firefox,female,30,597,Co Athlone: Ireland New York: NY
+"Daly  Miss. Margaret Marcella ""Maggie"",mobile,Firefox,female,30,597,Co Athlone: Ireland New York: NY"
 Daly  Mr. Eugene Patrick,desktop,Chrome,male,29,835,Co Athlone: Ireland New York: NY
 Danbom  Master. Gilbert Sigvard Emanuel,laptop,Opera,male,44,820,Stanton: IA
 Danbom  Mr. Ernst Gilbert,tablet,Internet Explorer,male,34,1475,Stanton: IA
@@ -762,7 +762,7 @@ de Messemaeker  Mrs. Guillaume Joseph (Emma),mobile,Chrome,female,36,779,Tampico
 de Mulder  Mr. Theodore,tablet,Firefox,male,30,375,Belgium Detroit: MI
 de Pelsmaeker  Mr. Alfons,mobile,Internet Explorer,male,16,385,-
 Dean  Master. Bertram Vere,laptop,Firefox,male,44,1149,Devon: England Wichita: KS
-"Dean  Miss. Elizabeth Gladys ""Millvina""",mobile,Firefox,female,44,799,Devon: England Wichita: KS
+"Dean  Miss. Elizabeth Gladys ""Millvina"",mobile,Firefox,female,44,799,Devon: England Wichita: KS"
 Dean  Mr. Bertram Frank,mobile,Firefox,male,26,933,Devon: England Wichita: KS
 Dean  Mrs. Bertram (Eva Georgetta Light),laptop,Chrome,female,33,901,Devon: England Wichita: KS
 Delalic  Mr. Redjo,mobile,Opera,male,25,1298,-
@@ -805,8 +805,8 @@ Flynn  Mr. John,mobile,Internet Explorer,male,44,1185,-
 Foley  Mr. Joseph,laptop,Internet Explorer,male,26,1477,Ireland Chicago: IL
 Foley  Mr. William,mobile,Firefox,male,44,1160,Ireland
 Foo  Mr. Choong,laptop,Firefox,male,44,1262,Hong Kong New York: NY
-"Ford  Miss. Doolina Margaret ""Daisy""",laptop,Opera,female,21,860,Rotherfield: Sussex: England Essex Co: MA
-"Ford  Miss. Robina Maggie ""Ruby""",desktop,Firefox,female,44,261,Rotherfield: Sussex: England Essex Co: MA
+"Ford  Miss. Doolina Margaret ""Daisy"",laptop,Opera,female,21,860,Rotherfield: Sussex: England Essex Co: MA"
+"Ford  Miss. Robina Maggie ""Ruby"",desktop,Firefox,female,44,261,Rotherfield: Sussex: England Essex Co: MA"
 Ford  Mr. Arthur,desktop,Internet Explorer,male,44,711,Bridgwater: Somerset: England
 Ford  Mr. Edward Watson,laptop,Chrome,male,18,999,Rotherfield: Sussex: England Essex Co: MA
 Ford  Mr. William Neal,desktop,Firefox,male,16,1172,Rotherfield: Sussex: England Essex Co: MA
@@ -817,9 +817,9 @@ Gallagher  Mr. Martin,desktop,Firefox,male,25,935,New York: NY
 Garfirth  Mr. John,mobile,Chrome,male,44,1064,-
 Gheorgheff  Mr. Stanio,laptop,Opera,male,44,1243,-
 Gilinski  Mr. Eliezer,laptop,Opera,male,22,64,-
-"Gilnagh  Miss. Katherine ""Katie""",desktop,Firefox,female,16,830,Co Longford: Ireland New York: NY
+"Gilnagh  Miss. Katherine ""Katie"",desktop,Firefox,female,16,830,Co Longford: Ireland New York: NY"
 Glynn  Miss. Mary Agatha,laptop,Internet Explorer,female,44,1132,Co Clare: Ireland Washington: DC
-"Goldsmith  Master. Frank John William ""Frankie""",desktop,Internet Explorer,male,44,979,Strood: Kent: England Detroit: MI
+"Goldsmith  Master. Frank John William ""Frankie"",desktop,Internet Explorer,male,44,979,Strood: Kent: England Detroit: MI"
 Goldsmith  Mr. Frank John,tablet,Chrome,male,33,1216,Strood: Kent: England Detroit: MI
 Goldsmith  Mr. Nathan,laptop,Chrome,male,41,1060,Philadelphia: PA
 Goldsmith  Mrs. Frank John (Emily Alice Brown),tablet,Chrome,female,31,653,Strood: Kent: England Detroit: MI
@@ -855,10 +855,10 @@ Harknett  Miss. Alice Phoebe,laptop,Chrome,female,33,705,-
 Harmer  Mr. Abraham (David Lishin),desktop,Opera,male,25,521,-
 Hart  Mr. Henry,desktop,Firefox,male,33,569,-
 Hassan  Mr. Houssein G N,tablet,Opera,male,33,730,-
-"Healy  Miss. Hanora ""Nora""",laptop,Internet Explorer,female,33,861,-
+"Healy  Miss. Hanora ""Nora"",laptop,Internet Explorer,female,33,861,-"
 Hedman  Mr. Oskar Arvid,laptop,Chrome,male,27,526,-
 Hee  Mr. Ling,mobile,Chrome,male,33,1328,-
-"Hegarty  Miss. Hanora ""Nora""",mobile,Firefox,female,33,1324,-
+"Hegarty  Miss. Hanora ""Nora"",mobile,Firefox,female,33,1324,-"
 Heikkinen  Miss. Laina,tablet,Internet Explorer,female,26,192,-
 Heininen  Miss. Wendla Maria,mobile,Chrome,female,23,777,-
 Hellstrom  Miss. Hilda Maria,tablet,Internet Explorer,female,22,619,-
@@ -899,10 +899,10 @@ Johnson  Mr. Alfred,desktop,Internet Explorer,male,49,435,-
 Johnson  Mr. Malkolm Joackim,desktop,Chrome,male,33,411,-
 Johnson  Mr. William Cahoone Jr,desktop,Chrome,male,19,1458,-
 Johnson  Mrs. Oscar W (Elisabeth Vilhelmina Berg),desktop,Internet Explorer,female,27,321,-
-"Johnston  Master. William Arthur ""Willie""",desktop,Chrome,male,33,840,-
-"Johnston  Miss. Catherine Helen ""Carrie""",tablet,Firefox,female,33,1450,-
+"Johnston  Master. William Arthur ""Willie"",desktop,Chrome,male,33,840,-"
+"Johnston  Miss. Catherine Helen ""Carrie"",tablet,Firefox,female,33,1450,-"
 Johnston  Mr. Andrew G,tablet,Internet Explorer,male,33,762,-
-"Johnston  Mrs. Andrew G (Elizabeth ""Lily"" Watson)",laptop,Firefox,female,33,119,-
+"Johnston  Mrs. Andrew G (Elizabeth ""Lily"" Watson),laptop,Firefox,female,33,119,-"
 Jonkoff  Mr. Lalio,desktop,Opera,male,23,1454,-
 Jonsson  Mr. Carl,desktop,Firefox,male,32,1136,-
 Jonsson  Mr. Nils Hilding,laptop,Firefox,male,27,515,-
