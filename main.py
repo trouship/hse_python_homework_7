@@ -26,7 +26,7 @@ class ClientOrder:
 
     def __str__(self):
         return (f"Пользователь {self.name} "
-                f"{"мужского" if self.sex else "женского"} пола "
+                f"{"мужского" if self.sex else "женского"} пола, "
                 f"{self._str_age()} "
                 f"{"совершил" if self.sex else "совершила"} "
                 f"покупку на {self.bill} у.е. "
@@ -40,6 +40,8 @@ with open("result.txt","w",encoding="utf-8") as f_write:
         f_read.readline() #Пропуск первой строки
 
         for line in f_read:
+            #Удаление двойных пробелов
+            line = line.replace("  "," ")
             #Починка строки если кавычки
             if line[0] == '"':
                 line = line[1:-2].replace('""', '"')  #Замена двойных кавычек на одинарные
